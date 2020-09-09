@@ -15,7 +15,11 @@
 			<studentId>1003</studentId>
 		</students>
 		<startDate>2020-08-31</startDate>
-		<grade></grade>
+		<grades>
+			<grade></grade>
+			<grade></grade>
+			<grade></grade>
+		</grades>
 		<studentNames>
 			<name>Harvey Kim</name>
 			<name>Emilia Harris</name>
@@ -42,7 +46,10 @@
 			<studentId>1003</studentId>
 		</students>
 		<startDate>2020-08-31</startDate>
-		<grade></grade>
+		<grades>
+			<grade></grade>
+			<grade></grade>
+		</grades>
 		<studentNames>
 			<name>Emilia Harris</name>
 			<name>Brian McCallister</name>
@@ -67,7 +74,10 @@
 			<studentId>1002</studentId>
 		</students>
 		<startDate>2020-08-31</startDate>
-		<grade></grade>
+		<grades>
+			<grade></grade>
+			<grade></grade>
+		</grades>
 		<studentNames>
 			<name>Harvey Kim</name>
 			<name>Emilia Harris</name>
