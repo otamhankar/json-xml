@@ -14,7 +14,11 @@
 			1003
 		],
 		"startDate": "2020-08-31",
-		"grade": "",
+		"grade": [
+			"",
+			"",
+			""
+		],
 		"studentName": [
 			"Harvey Kim",
 			"Emilia Harris",
@@ -40,7 +44,10 @@
 			1003
 		],
 		"startDate": "2020-08-31",
-		"grade": "",
+		"grade": [
+			"",
+			""
+		],
 		"studentName": [
 			"Emilia Harris",
 			"Brian McCallister"
@@ -64,7 +71,10 @@
 			1002
 		],
 		"startDate": "2020-08-31",
-		"grade": "",
+		"grade": [
+			"",
+			""
+		],
 		"studentName": [
 			"Harvey Kim",
 			"Emilia Harris"
